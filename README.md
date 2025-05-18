@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PhxFire
-- 👀 I’m interested in web development, creating apps, and programming.
-- 🌱 I’m currently learning HTML, CSS< and JavaScript!
-- 💞️ I’m looking to learn a little more before colaboration...
+- 👀 I’m interested in web developmet, software development, programming.
+- 🌱 I’m currently taking Computer Science 307; six credit away from BS in IT.
+- 💞️ I’m looking to learn something relevant everyday :)
 - 📫 How to reach me is stefaniepyle86@gmail.com
 
 <!---
